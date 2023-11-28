@@ -1,0 +1,9 @@
+{
+  "jedi": {
+    "enable": true,
+    "startupMessage": false,
+    "executable.command": "~/miniconda3/envs/pynvim/bin/jedi-language-server"
+  },
+
+  "suggest.noselect": true
+}
